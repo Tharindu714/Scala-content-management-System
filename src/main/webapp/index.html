@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Create Content</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="form-container">
+  <h1>Create New Content</h1>
+  <form action="content" method="post">
+    <label for="title">Title:</label>
+    <input type="text" id="title" name="title" required />
+
+    <label for="body">Body:</label>
+    <textarea id="body" name="body" required></textarea>
+
+    <label for="author">Author:</label>
+    <input type="text" id="author" name="author" required />
+
+    <button type="submit">Save Content</button>
+  </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,160 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\THARIN~1\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\THARIN~1\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.9.7 (Oracle Corporation Java 11.0.18)
+[debug] Load.defaultLoad until apply took 83.2945ms
+[debug]                 Load.loadUnit: plugins took 82.344201ms
+[debug]                 Load.loadUnit: defsScala took 0.246801ms
+[debug] [Loading] Scanning directory E:\Scala\Scala_CMS\project\project
+[debug]                   Load.loadUnit: mkEval took 5.7081ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in E:\Scala\Scala_CMS\project\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 15.2458 ms
+[info] loading settings for project scala_cms-build-build from metals.sbt ...
+[debug]                     Load.resolveProject(scala_cms-build-build) took 45.197ms
+[debug]                   Load.loadTransitive: finalizeProject(Project(id scala_cms-build-build, base: E:\Scala\Scala_CMS\project\project, plugins: List(<none>))) took 85.448601ms
+[debug] [Loading] Done in E:\Scala\Scala_CMS\project\project, returning: (scala_cms-build-build)
+[debug]                 Load.loadUnit: loadedProjectsRaw took 288.8482ms
+[debug]                 Load.loadUnit: cleanEvalClasses took 5.1897ms
+[debug]               Load.loadUnit(file:/E:/Scala/Scala_CMS/project/project/, ...) took 381.0653ms
+[debug]             Load.apply: load took 506.9874ms
+[debug]             Load.apply: resolveProjects took 5.4287ms
+[debug]             Load.apply: finalTransforms took 60.094801ms
+[debug]             Load.apply: config.delegates took 8.702001ms
+[debug]             Load.apply: Def.make(settings)... took 458.9606ms
+[debug]             Load.apply: structureIndex took 86.762601ms
+[debug]             Load.apply: mkStreams took 1.9453ms
+[info] loading project definition from E:\Scala\Scala_CMS\project\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]           Load.loadUnit: plugins took 2199.309601ms
+[debug]           Load.loadUnit: defsScala took 0.0036ms
+[debug] [Loading] Scanning directory E:\Scala\Scala_CMS\project
+[debug]             Load.loadUnit: mkEval took 0.2239ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in E:\Scala\Scala_CMS\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(bloop.integrations.sbt.BloopPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(bloop.integrations.sbt.BloopPlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,bloop.integrations.sbt.BloopPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 1.7607 ms
+[info] loading settings for project scala_cms-build from metals.sbt,plugins.sbt,idea.sbt ...
+[debug]               Load.resolveProject(scala_cms-build) took 23.1154ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id scala_cms-build, base: E:\Scala\Scala_CMS\project, plugins: List(<none>))) took 25.392001ms
+[debug] [Loading] Done in E:\Scala\Scala_CMS\project, returning: (scala_cms-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 2043.9236ms
+[debug]           Load.loadUnit: cleanEvalClasses took 1.936801ms
+[debug]         Load.loadUnit(file:/E:/Scala/Scala_CMS/project/, ...) took 4245.8325ms
+[debug]       Load.apply: load took 4247.1599ms
+[debug]       Load.apply: resolveProjects took 0.121ms
+[debug]       Load.apply: finalTransforms took 44.6224ms
+[debug]       Load.apply: config.delegates took 0.3522ms
+[debug]       Load.apply: Def.make(settings)... took 119.932999ms
+[debug]       Load.apply: structureIndex took 60.0929ms
+[debug]       Load.apply: mkStreams took 0.0023ms
+[info] loading project definition from E:\Scala\Scala_CMS\project
+[debug] Evaluating tasks: bloopInstall
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] 
+[warn] 	Note: Some unresolved dependencies have extra attributes.  Check that these dependencies exist with the requested attributes.
+[warn] 		com.earldouglas:sbt-assembly:0.14.10 (sbtVersion=1.0, scalaVersion=2.12)
+[warn] 		org.scala-sbt:sbt-jetty:1.0.0 (sbtVersion=1.0, scalaVersion=2.12)
+[warn] 
+[warn] 	Note: Unresolved dependencies path:
+[error] Couldn't run bloopGenerate. The issue could be caused by failing to compile the project.
+[error] sbt.librarymanagement.ResolveException: Error downloading com.earldouglas:sbt-assembly;sbtVersion=1.0;scalaVersion=2.12:0.14.10
+[error]   Not found
+[error]   Not found
+[error]   not found: https://repo1.maven.org/maven2/com/earldouglas/sbt-assembly_2.12_1.0/0.14.10/sbt-assembly-0.14.10.pom
+[error]   not found: C:\Users\Tharindu Chanaka\.ivy2\localcom.earldouglas\sbt-assembly\scala_2.12\sbt_1.0\0.14.10\ivys\ivy.xml
+[error]   not found: C:\Users\Tharindu Chanaka\AppData\Roaming\JetBrains\IntelliJIdea2024.3\plugins\Scala\repo\com\earldouglas\sbt-assembly_2.12_1.0\0.14.10\sbt-assembly-0.14.10.pom
+[error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml
+[error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml
+[error] Error downloading org.scala-sbt:sbt-jetty;sbtVersion=1.0;scalaVersion=2.12:1.0.0
+[error]   Not found
+[error]   Not found
+[error]   not found: https://repo1.maven.org/maven2/org/scala-sbt/sbt-jetty_2.12_1.0/1.0.0/sbt-jetty-1.0.0.pom
+[error]   not found: C:\Users\Tharindu Chanaka\.ivy2\localorg.scala-sbt\sbt-jetty\scala_2.12\sbt_1.0\1.0.0\ivys\ivy.xml
+[error]   not found: C:\Users\Tharindu Chanaka\AppData\Roaming\JetBrains\IntelliJIdea2024.3\plugins\Scala\repo\org\scala-sbt\sbt-jetty_2.12_1.0\1.0.0\sbt-jetty-1.0.0.pom
+[error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml
+[error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml
+[error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:344)
+[error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:313)
+[error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+[error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:313)
+[error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+[error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:60)
+[error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:134)
+[error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:74)
+[error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:147)
+[error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+[error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:147)
+[error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:128)
+[error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:220)
+[error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:161)
+[error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3801)
+[error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+[error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)
+[error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:69)
+[error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)
+[error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)
+[error] 	at sbt.Execute.work(Execute.scala:292)
+[error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)
+[error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+[error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+[error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[error] 	at java.base/java.lang.Thread.run(Thread.java:834)
+[error] (update) sbt.librarymanagement.ResolveException: Error downloading com.earldouglas:sbt-assembly;sbtVersion=1.0;scalaVersion=2.12:0.14.10
+[error]   Not found
+[error]   Not found
+[error]   not found: https://repo1.maven.org/maven2/com/earldouglas/sbt-assembly_2.12_1.0/0.14.10/sbt-assembly-0.14.10.pom
+[error]   not found: C:\Users\Tharindu Chanaka\.ivy2\localcom.earldouglas\sbt-assembly\scala_2.12\sbt_1.0\0.14.10\ivys\ivy.xml
+[error]   not found: C:\Users\Tharindu Chanaka\AppData\Roaming\JetBrains\IntelliJIdea2024.3\plugins\Scala\repo\com\earldouglas\sbt-assembly_2.12_1.0\0.14.10\sbt-assembly-0.14.10.pom
+[error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml
+[error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml
+[error] Error downloading org.scala-sbt:sbt-jetty;sbtVersion=1.0;scalaVersion=2.12:1.0.0
+[error]   Not found
+[error]   Not found
+[error]   not found: https://repo1.maven.org/maven2/org/scala-sbt/sbt-jetty_2.12_1.0/1.0.0/sbt-jetty-1.0.0.pom
+[error]   not found: C:\Users\Tharindu Chanaka\.ivy2\localorg.scala-sbt\sbt-jetty\scala_2.12\sbt_1.0\1.0.0\ivys\ivy.xml
+[error]   not found: C:\Users\Tharindu Chanaka\AppData\Roaming\JetBrains\IntelliJIdea2024.3\plugins\Scala\repo\org\scala-sbt\sbt-jetty_2.12_1.0\1.0.0\sbt-jetty-1.0.0.pom
+[error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml
+[error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml
+[error] Total time: 12 s, completed Apr 10, 2025, 7:43:32 AM
+[warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)

@@ -1,0 +1,16 @@
+[debug] downloaded https://repo1.maven.org/maven2/com/earldouglas/sbt-assembly_2.12_1.0/0.14.10/sbt-assembly_2.12_1.0-0.14.10.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbt-jetty_2.12_1.0/1.0.0/sbt-jetty_2.12_1.0-1.0.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbt-jetty_2.12_1.0/1.0.0/sbt-jetty_2.12_1.0-1.0.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbt-jetty_2.12_1.0/1.0.0/sbt-jetty-1.0.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/earldouglas/sbt-assembly_2.12_1.0/0.14.10/sbt-assembly_2.12_1.0-0.14.10.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbt-jetty_2.12_1.0/1.0.0/sbt-jetty-1.0.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/com/earldouglas/sbt-assembly_2.12_1.0/0.14.10/sbt-assembly-0.14.10.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/earldouglas/sbt-assembly_2.12_1.0/0.14.10/sbt-assembly-0.14.10.pom.sha1
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt-jetty/scala_2.12/sbt_1.0/1.0.0/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/com.earldouglas/sbt-assembly/scala_2.12/sbt_1.0/0.14.10/ivys/ivy.xml.sha1
