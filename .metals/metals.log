@@ -302,3 +302,256 @@ WARNING: Empty build targets. Expected at least one build target identifier. (fu
 2025.04.10 07:46:46 INFO  time: indexed workspace in 6.87s
 2025.04.10 07:46:46 INFO  compiling scala_cms (1 scala source and 4 java sources)
 2025.04.10 07:46:50 INFO  time: compiled scala_cms in 4.02s
+Apr 10, 2025 8:00:45 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/model/Content.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-00-45-981.md)
+2025.04.10 08:00:46 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:00:46 WARN  javac exited with exit code 1
+2025.04.10 08:00:46 INFO  time: compiled scala_cms in 0.85s
+2025.04.10 08:00:58 INFO  compiling scala_cms (2 scala sources and 3 java sources)
+2025.04.10 08:01:03 WARN  javac exited with exit code 1
+2025.04.10 08:01:03 WARN  Invalid text document uri received from build server: file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/model/Content.java
+2025.04.10 08:01:03 INFO  time: compiled scala_cms in 4.61s
+2025.04.10 08:01:03 INFO  compiling scala_cms (2 scala sources and 3 java sources)
+2025.04.10 08:01:06 WARN  javac exited with exit code 1
+2025.04.10 08:01:06 INFO  time: compiled scala_cms in 3.39s
+Apr 10, 2025 8:01:38 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/servlet/ContentServlet.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-01-38-915.md)
+Apr 10, 2025 8:01:38 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/servlet/ContentServlet.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-01-38-915.md)
+2025.04.10 08:01:39 INFO  compiling scala_cms (2 scala sources and 3 java sources)
+2025.04.10 08:01:39 INFO  time: compiled scala_cms in 0.35s
+2025.04.10 08:01:45 INFO  compiling scala_cms (3 scala sources and 2 java sources)
+2025.04.10 08:01:49 WARN  Invalid text document uri received from build server: file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/servlet/ContentServlet.java
+2025.04.10 08:01:49 INFO  time: compiled scala_cms in 4.09s
+Apr 10, 2025 8:01:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 109
+Apr 10, 2025 8:02:56 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/dao/ContentDao.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-02-56-772.md)
+2025.04.10 08:02:56 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:02:57 WARN  javac exited with exit code 1
+2025.04.10 08:02:57 INFO  time: compiled scala_cms in 1.09s
+2025.04.10 08:03:02 INFO  compiling scala_cms (4 scala sources and 1 java source)
+2025.04.10 08:03:05 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2025.04.10 08:03:06 WARN  Invalid text document uri received from build server: file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/dao/ContentDao.java
+2025.04.10 08:03:06 INFO  time: compiled scala_cms in 4.1s
+2025.04.10 08:03:07 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:03:07 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:03:07 WARN  no build target for: E:\Scala\Scala_CMS\build.sbt
+2025.04.10 08:03:07 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:03:09 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+Apr 10, 2025 8:03:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/util/HibernateUtil.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-03-36-679.md)
+2025.04.10 08:03:36 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:03:36 WARN  javac exited with exit code 1
+2025.04.10 08:03:36 INFO  time: compiled scala_cms in 0.7s
+2025.04.10 08:03:42 INFO  compiling scala_cms (5 scala sources)
+2025.04.10 08:03:45 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2025.04.10 08:03:45 WARN  Invalid text document uri received from build server: file:///E:/Scala/Scala_CMS/src/main/java/com/scalatutorial/util/HibernateUtil.java
+2025.04.10 08:03:45 INFO  time: compiled scala_cms in 2.82s
+2025.04.10 08:03:50 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:03:50 WARN  no build target for: E:\Scala\Scala_CMS\build.sbt
+2025.04.10 08:03:50 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:03:52 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:04:54 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:04:57 INFO  no build target found for e:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+Apr 10, 2025 8:04:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Unexpected error when compiling scala_cms: java.io.FileNotFoundException: <WORKSPACE>\src\main\java\... (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Unexpected error whe..._08-04-57-894.md)
+Apr 10, 2025 8:04:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 225
+2025.04.10 08:04:58 INFO  compiling scala_cms (5 scala sources)
+2025.04.10 08:04:59 WARN  failed to generate semanticdb for E:\Scala\Scala_CMS\src\main\scala\model\Content.scala:
+java.lang.IllegalArgumentException: 346 is not a valid offset, allowed [0..331]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$File.offsetToLine(Input.scala:73)
+	at scala.meta.inputs.Position$Range.endLine$lzycompute(Position.scala:47)
+	at scala.meta.inputs.Position$Range.endLine(Position.scala:47)
+	at scala.meta.internal.semanticdb.Implicits$XtensionPositionToRange$.toRange$extension(Implicits.scala:12)
+	at scala.meta.internal.semanticdb.scalac.SyntheticOps$XtensionGTreeSTree.toRange(SyntheticOps.scala:43)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.getSelect(TextDocumentOps.scala:555)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.$anonfun$cachedIfSelect$1(TextDocumentOps.scala:562)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.$anonfun$cached$1(TextDocumentOps.scala:524)
+	at scala.collection.mutable.HashMap.getOrElseUpdate(HashMap.scala:469)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.cached(TextDocumentOps.scala:524)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.cachedIfSelect(TextDocumentOps.scala:562)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.$anonfun$getCached$1(TextDocumentOps.scala:539)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.$anonfun$cached$1(TextDocumentOps.scala:524)
+	at scala.collection.mutable.HashMap.getOrElseUpdate(HashMap.scala:469)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.cached(TextDocumentOps.scala:524)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$Synth$1$.getCached(TextDocumentOps.scala:528)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.scala$meta$internal$semanticdb$scalac$TextDocumentOps$XtensionCompilationUnitDocument$$tryFindSynthetic$1(TextDocumentOps.scala:618)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:457)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:202)
+	at scala.reflect.api.Trees$Traverser.traverseTrees(Trees.scala:2509)
+	at scala.reflect.internal.Trees$Block.traverse(Trees.scala:560)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1613)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1612)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2500)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:513)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:202)
+	at scala.reflect.internal.Trees$DefDef.$anonfun$traverse$4(Trees.scala:463)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2532)
+	at scala.reflect.internal.Trees$DefDef.traverse(Trees.scala:457)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1613)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1612)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2500)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:513)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:202)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$2(Trees.scala:2523)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2532)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$1(Trees.scala:2523)
+	at scala.reflect.api.Trees$Traverser.traverseStats(Trees.scala:2522)
+	at scala.reflect.internal.Trees$Template.traverse(Trees.scala:550)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1613)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1612)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2500)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:513)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:202)
+	at scala.reflect.internal.Trees$ClassDef.$anonfun$traverse$1(Trees.scala:369)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2532)
+	at scala.reflect.internal.Trees$ClassDef.traverse(Trees.scala:365)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1613)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1612)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2500)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:513)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:202)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$2(Trees.scala:2523)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2532)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$1(Trees.scala:2523)
+	at scala.reflect.api.Trees$Traverser.traverseStats(Trees.scala:2522)
+	at scala.reflect.internal.Trees$PackageDef.traverse(Trees.scala:349)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1613)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1612)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2500)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:513)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:516)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:44)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.saveSemanticdbForCompilationUnit(SemanticdbPipeline.scala:66)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.apply(SemanticdbPipeline.scala:70)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:481)
+	at scala.tools.nsc.Global$GlobalPhase.run(Global.scala:428)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.run(SemanticdbPipeline.scala:78)
+	at scala.tools.nsc.Global$Run.compileUnitsInternal(Global.scala:1549)
+	at scala.tools.nsc.Global$Run.compileUnits(Global.scala:1533)
+	at scala.tools.nsc.Global$Run.compileSources(Global.scala:1525)
+	at scala.tools.nsc.Global$Run.compileFiles(Global.scala:1638)
+	at scala.tools.xsbt.CachedCompiler0.run(CompilerBridge.scala:176)
+	at scala.tools.xsbt.CachedCompiler0.run(CompilerBridge.scala:139)
+	at scala.tools.xsbt.CompilerBridge.run(CompilerBridge.scala:43)
+	at sbt.internal.inc.AnalyzingCompiler.compile(AnalyzingCompiler.scala:91)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.compileSources$1(BloopHighLevelCompiler.scala:148)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$9(BloopHighLevelCompiler.scala:181)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$1(BloopHighLevelCompiler.scala:73)
+	at bloop.tracing.NoopTracer$.trace(BraveTracer.scala:53)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.timed$1(BloopHighLevelCompiler.scala:72)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$8(BloopHighLevelCompiler.scala:181)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:81)
+	at monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+	at monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+	at monix.eval.internal.TaskExecuteOn$AsyncRegister$$anon$1.run(TaskExecuteOn.scala:71)
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2025.04.10 08:04:59 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2025.04.10 08:04:59 INFO  time: compiled scala_cms in 2.26s
+2025.04.10 08:06:02 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:06:02 WARN  no build target for: E:\Scala\Scala_CMS\build.sbt
+2025.04.10 08:06:02 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:06:02 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:06:02 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:06:05 INFO  no build target found for E:\Scala\Scala_CMS\build.sbt. Using presentation compiler with project's scala-library version: 2.13.13
+2025.04.10 08:08:21 INFO  compiling scala_cms (1 java source)
+Apr 10, 2025 8:08:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+2025.04.10 08:08:23 INFO  time: compiled scala_cms in 1.83s
+2025.04.10 08:09:10 INFO  compiling scala_cms (1 java source)
+Apr 10, 2025 8:09:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 267
+2025.04.10 08:09:13 INFO  time: compiled scala_cms in 2.45s
+2025.04.10 08:09:13 INFO  compiling scala_cms (2 scala sources)
+2025.04.10 08:09:13 INFO  time: compiled scala_cms in 0.61s
+2025.04.10 08:09:32 INFO  compiling scala_cms (2 java sources)
+2025.04.10 08:09:35 INFO  time: compiled scala_cms in 2.37s
+2025.04.10 08:09:35 INFO  compiling scala_cms (2 scala sources)
+2025.04.10 08:09:35 INFO  time: compiled scala_cms in 0.41s
+2025.04.10 08:10:43 INFO  Shutting down server
+2025.04.10 08:10:43 INFO  shutting down Metals
+2025.04.10 08:10:43 INFO  Shut down connection with build server.
+2025.04.10 08:10:43 INFO  Shut down connection with build server.
+2025.04.10 08:10:43 INFO  Exiting server
+2025.04.10 08:11:05 INFO  Started: Metals version 1.5.2 in folders 'E:\Scala\Scala_CMS' for client Visual Studio Code 1.99.1.
+2025.04.10 08:11:07 INFO  Attempting to connect to the build server...
+2025.04.10 08:11:07 INFO  Found a Bloop server running
+2025.04.10 08:11:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala\Scala_CMS\.metals\bsp.trace.json or C:\Users\Tharindu Chanaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.04.10 08:11:08 INFO  Attempting to connect to the build server...
+2025.04.10 08:11:08 INFO  Found a Bloop server running
+2025.04.10 08:11:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala\Scala_CMS\project\.metals\bsp.trace.json or C:\Users\Tharindu Chanaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.04.10 08:11:08 INFO  time: Connected to build server in 1.89s
+2025.04.10 08:11:08 INFO  Connected to Build server: Bloop v2.0.9
+Apr 10, 2025 8:11:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 8:11:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 8:11:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 8:11:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 8:11:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+2025.04.10 08:11:09 INFO  time: Imported build in 0.12s
+2025.04.10 08:11:14 INFO  time: indexed workspace in 5s
+2025.04.10 08:12:48 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:12:50 INFO  time: compiled scala_cms in 2.06s
+Apr 10, 2025 8:13:07 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/service/ContentService.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-13-07-182.md)
+2025.04.10 08:13:07 INFO  compiling scala_cms (1 java source)
+Apr 10, 2025 8:13:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2025.04.10 08:13:09 WARN  javac exited with exit code 1
+2025.04.10 08:13:09 INFO  time: compiled scala_cms in 2.15s
+Apr 10, 2025 8:13:11 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/java/service/ContentService.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-13-07-182.md)
+Apr 10, 2025 8:14:13 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: QDox parse error in file:///E:/Scala/Scala_CMS/src/main/scala/service/ContentService.java (full report at: E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_qdox-error_(scala_cms)_08-14-13-579.md)
+2025.04.10 08:14:13 INFO  compiling scala_cms (1 java source)
+Apr 10, 2025 8:14:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2025.04.10 08:14:15 WARN  javac exited with exit code 1
+2025.04.10 08:14:15 WARN  Invalid text document uri received from build server: file:///E:/Scala/Scala_CMS/src/main/java/service/ContentService.java
+2025.04.10 08:14:15 INFO  time: compiled scala_cms in 2.05s
+2025.04.10 08:14:20 INFO  compiling scala_cms (1 scala source)
+Apr 10, 2025 8:14:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+2025.04.10 08:14:21 WARN  Invalid text document uri received from build server: file:///E:/Scala/Scala_CMS/src/main/scala/service/ContentService.java
+2025.04.10 08:14:21 INFO  time: compiled scala_cms in 1.77s
+2025.04.10 08:15:28 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:15:29 INFO  time: compiled scala_cms in 1.89s
+2025.04.10 08:15:45 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:15:45 WARN  javac exited with exit code 1
+2025.04.10 08:15:45 INFO  time: compiled scala_cms in 0.77s
+2025.04.10 08:15:59 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:15:59 WARN  javac exited with exit code 1
+2025.04.10 08:15:59 INFO  time: compiled scala_cms in 0.98s
+2025.04.10 08:16:26 INFO  compiling scala_cms (1 java source)
+2025.04.10 08:16:26 WARN  javac exited with exit code 1
+2025.04.10 08:16:26 INFO  time: compiled scala_cms in 0.95s
+2025.04.10 08:16:31 INFO  Shutting down server
+2025.04.10 08:16:31 INFO  shutting down Metals
+2025.04.10 08:16:31 INFO  Shut down connection with build server.
+2025.04.10 08:16:31 INFO  Shut down connection with build server.
+2025.04.10 08:16:31 INFO  Exiting server
