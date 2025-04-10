@@ -274,3 +274,31 @@ WARNING: Unmatched cancel notification for request id 24
 2025.04.10 07:02:42 INFO  Shut down connection with build server.
 2025.04.10 07:02:42 INFO  Shut down connection with build server.
 2025.04.10 07:02:42 INFO  Exiting server
+2025.04.10 07:46:32 INFO  Started: Metals version 1.5.2 in folders 'E:\Scala\Scala_CMS' for client Visual Studio Code 1.99.1.
+2025.04.10 07:46:32 INFO  time: initialize in 0.15s
+2025.04.10 07:46:33 INFO  no build target found for E:\Scala\Scala_CMS\src\main\java\com\scalatutorial\model\Content.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.10 07:46:34 INFO  Attempting to connect to the build server...
+2025.04.10 07:46:34 INFO  Found a Bloop server running
+2025.04.10 07:46:36 INFO  no build target found for E:\Scala\Scala_CMS\src\main\java\com\scalatutorial\model\Content.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.10 07:46:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala\Scala_CMS\.metals\bsp.trace.json or C:\Users\Tharindu Chanaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.04.10 07:46:37 INFO  Attempting to connect to the build server...
+2025.04.10 07:46:37 INFO  Found a Bloop server running
+Apr 10, 2025 7:46:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report E:\Scala\Scala_CMS\.metals\.reports\metals-full\2025-04-10\r_compiler-error_07-46-39-231.md
+2025.04.10 07:46:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala\Scala_CMS\project\.metals\bsp.trace.json or C:\Users\Tharindu Chanaka\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.04.10 07:46:39 INFO  time: Connected to build server in 5.02s
+2025.04.10 07:46:39 INFO  Connected to Build server: Bloop v2.0.9
+Apr 10, 2025 7:46:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 7:46:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 7:46:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 7:46:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+Apr 10, 2025 7:46:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: E:\Scala\Scala_CMS\.metals\.reports\bloop\2025-04-10\r_Empty build targets...._07-46-39-552.md)
+2025.04.10 07:46:39 INFO  time: Imported build in 0.19s
+2025.04.10 07:46:46 INFO  time: indexed workspace in 6.87s
+2025.04.10 07:46:46 INFO  compiling scala_cms (1 scala source and 4 java sources)
+2025.04.10 07:46:50 INFO  time: compiled scala_cms in 4.02s
